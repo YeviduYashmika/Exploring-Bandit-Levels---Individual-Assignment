@@ -1,2 +1,2 @@
-# Exploring-Bandit-Levels-Individual-Assignment
-2nd year 1st semester Labsheet Assignment - SNP module
+# Exploring-Bandit-Levels
+2nd Year 1st Semester Individual Labsheet Assignment - SNP module
